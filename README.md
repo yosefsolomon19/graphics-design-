@@ -40,20 +40,11 @@ I enjoy turning everyday ideas into creative designs and I love experimenting wi
 ---
 
 # 💻 Tech Stack
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%231DA1F2?style=for-the-badge&logo=adobephotoshop&logoColor=white)  
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9900?style=for-the-badge&logo=adobeillustrator&logoColor=white)  
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=Canva&logoColor=white)  
-![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-%2349021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366)  
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-%2331A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)  
-
----
-
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=yosefsolomon19&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=yosefsolomon19&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yosefsolomon19&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
-
-[![](https://visitcount.itsvg.in/api?id=yosefsolomon19&icon=0&color=0)](https://visitcount.itsvg.in)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%231DA1F2?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9900?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-%2349021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-%2331A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
 ---
 
@@ -110,16 +101,16 @@ I enjoy turning everyday ideas into creative designs and I love experimenting wi
 ### 📢 Advertisements
 <div align="center">
   <figure>
-    <img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/transformed%20(1).png?raw=true" width="250" />
-    <figcaption>Ad Campaign 1</figcaption>
+    <img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/ad%20manipulation.png?raw=true" width="250" />
+    <figcaption>Ad Manipulation 1</figcaption>
   </figure>
   <figure>
     <img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/ad%20manipulation%20(2).png?raw=true" width="250" />
     <figcaption>Ad Manipulation 2</figcaption>
   </figure>
   <figure>
-    <img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/ad%20manipulation.png?raw=true" width="250" />
-    <figcaption>Ad Manipulation 1</figcaption>
+    <img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/transformed%20(1).png?raw=true" width="250" />
+    <figcaption>Ad Campaign 1</figcaption>
   </figure>
   <figure>
     <img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/advertisment.jpg?raw=true" width="250" />
@@ -135,12 +126,3 @@ This portfolio demonstrates my proof of work for Project Catalyst Fund 15. It fo
 - ✅ Creating **affordable, high-quality community designs**  
 - ✅ Empowering **local students with digital design skills**  
 - ✅ Increasing **Cardano awareness through visual content**
-
----
-
-## 🛠️ Tools Used
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%231DA1F2?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9900?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-%2349021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-%2331A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
