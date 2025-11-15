@@ -56,12 +56,12 @@ I enjoy turning everyday ideas into creative designs and I love experimenting wi
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/thumbnail%201.jpg?raw=true" width="280" /><br>Thumbnail 1</td>
-      <td><img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/thumbnail%202.jpg?raw=true" width="280" /><br>Thumbnail 2</td>
-      <td><img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/thumb%204.jpg?raw=true" width="280" /><br>Thumbnail 3</td>
+      <td><img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/thumbnail%201.jpg?raw=true" width="300" /><br>Thumbnail 1</td>
+      <td><img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/thumbnail%202.jpg?raw=true" width="300" /><br>Thumbnail 2</td>
+      <td><img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/thumb%204.jpg?raw=true" width="300" /><br>Thumbnail 3</td>
     </tr>
     <tr>
-      <td><img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/thumb%205.jpg?raw=true" width="280" /><br>Thumbnail 4</td>
+      <td><img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/thumb%205.jpg?raw=true" width="300" /><br>Thumbnail 4</td>
     </tr>
   </table>
 </div>
@@ -70,8 +70,8 @@ I enjoy turning everyday ideas into creative designs and I love experimenting wi
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/movie%20poster.jpg?raw=true" width="300" /><br>Movie Poster</td>
-      <td><img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/poster%202.jpg?raw=true" width="300" /><br>Event Poster</td>
+      <td><img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/movie%20poster.jpg?raw=true" width="350" /><br>Movie Poster</td>
+      <td><img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/poster%202.jpg?raw=true" width="350" /><br>Event Poster</td>
     </tr>
   </table>
 </div>
@@ -80,9 +80,9 @@ I enjoy turning everyday ideas into creative designs and I love experimenting wi
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/manipulation%20peace.jpg?raw=true" width="250" /><br>Peace Manipulation</td>
-      <td><img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/manipulation.png?raw=true" width="250" /><br>Creative Manipulation</td>
-      <td><img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/monster%20manipulation.jpg?raw=true" width="250" /><br>Monster Manipulation</td>
+      <td><img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/manipulation%20peace.jpg?raw=true" width="300" /><br>Peace Manipulation</td>
+      <td><img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/manipulation.png?raw=true" width="300" /><br>Creative Manipulation</td>
+      <td><img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/monster%20manipulation.jpg?raw=true" width="300" /><br>Monster Manipulation</td>
     </tr>
   </table>
 </div>
@@ -91,12 +91,12 @@ I enjoy turning everyday ideas into creative designs and I love experimenting wi
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/ad%20manipulation.png?raw=true" width="280" /><br>Ad Manipulation 1</td>
-      <td><img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/ad%20manipulation%20(2).png?raw=true" width="280" /><br>Ad Manipulation 2</td>
+      <td><img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/ad%20manipulation.png?raw=true" width="300" /><br>Ad Manipulation 1</td>
+      <td><img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/ad%20manipulation%20(2).png?raw=true" width="300" /><br>Ad Manipulation 2</td>
     </tr>
     <tr>
-      <td><img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/transformed%20(1).png?raw=true" width="280" /><br>Ad Campaign 1</td>
-      <td><img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/advertisment.jpg?raw=true" width="280" /><br>Advertisement Poster</td>
+      <td><img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/transformed%20(1).png?raw=true" width="300" /><br>Ad Campaign 1</td>
+      <td><img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/advertisment.jpg?raw=true" width="300" /><br>Advertisement Poster</td>
     </tr>
   </table>
 </div>
