@@ -3,32 +3,34 @@
 Welcome! This repository showcases my graphic design work for my Project Catalyst Fund 15 proposal.  
 These projects include educational posters, community awareness graphics, training materials, and social media designs.  
 
+---
+
 # 💫 About Me
-**I'm currently working on**  
+**I'm currently working on:**  
 - Building my graphic design portfolio for Project Catalyst Fund 15  
 - Creating digital design templates, posters, and visual content for community projects  
 
-**I'm looking to collaborate on**  
+**I'm looking to collaborate on:**  
 - Open-source design projects  
 - Cardano community awareness campaigns  
 - Educational materials for students and local communities  
 
-**I'm looking for help with**  
+**I'm looking for help with:**  
 - Expanding my network of designers and creative collaborators  
 - Feedback on design projects to make them more impactful  
 - Learning advanced design techniques and tools  
 
-**I'm currently learning**  
+**I'm currently learning:**  
 - Advanced Photoshop and Illustrator techniques  
 - Graphic design trends for social media and advertising  
 - Best practices for community-centered visual content  
 
-**Ask me about**  
+**Ask me about:**  
 - Graphic design for posters, advertisements, and social media  
 - My experience creating visual content for Project Catalyst  
 - Affordable and creative design solutions for educational projects  
 
-**Fun fact**  
+**Fun fact:**  
 I enjoy turning everyday ideas into creative designs and I love experimenting with digital art and poster manipulation.
 
 ---
@@ -52,70 +54,51 @@ I enjoy turning everyday ideas into creative designs and I love experimenting wi
 
 ### ✨ Thumbnails
 <div align="center">
-  <figure>
-    <img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/thumbnail%201.jpg?raw=true" width="250" />
-    <figcaption>Thumbnail 1</figcaption>
-  </figure>
-  <figure>
-    <img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/thumbnail%202.jpg?raw=true" width="250" />
-    <figcaption>Thumbnail 2</figcaption>
-  </figure>
-  <figure>
-    <img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/thumb%204.jpg?raw=true" width="250" />
-    <figcaption>Thumbnail 3</figcaption>
-  </figure>
-  <figure>
-    <img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/thumb%205.jpg?raw=true" width="250" />
-    <figcaption>Thumbnail 4</figcaption>
-  </figure>
+  <table>
+    <tr>
+      <td><img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/thumbnail%201.jpg?raw=true" width="280" /><br>Thumbnail 1</td>
+      <td><img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/thumbnail%202.jpg?raw=true" width="280" /><br>Thumbnail 2</td>
+      <td><img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/thumb%204.jpg?raw=true" width="280" /><br>Thumbnail 3</td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/thumb%205.jpg?raw=true" width="280" /><br>Thumbnail 4</td>
+    </tr>
+  </table>
 </div>
 
 ### 🎬 Posters
 <div align="center">
-  <figure>
-    <img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/movie%20poster.jpg?raw=true" width="300" />
-    <figcaption>Movie Poster</figcaption>
-  </figure>
-  <figure>
-    <img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/poster%202.jpg?raw=true" width="300" />
-    <figcaption>Event Poster</figcaption>
-  </figure>
+  <table>
+    <tr>
+      <td><img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/movie%20poster.jpg?raw=true" width="300" /><br>Movie Poster</td>
+      <td><img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/poster%202.jpg?raw=true" width="300" /><br>Event Poster</td>
+    </tr>
+  </table>
 </div>
 
 ### 🖌️ Manipulations
 <div align="center">
-  <figure>
-    <img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/manipulation%20peace.jpg?raw=true" width="250" />
-    <figcaption>Peace Manipulation</figcaption>
-  </figure>
-  <figure>
-    <img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/manipulation.png?raw=true" width="250" />
-    <figcaption>Creative Manipulation</figcaption>
-  </figure>
-  <figure>
-    <img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/monster%20manipulation.jpg?raw=true" width="250" />
-    <figcaption>Monster Manipulation</figcaption>
-  </figure>
+  <table>
+    <tr>
+      <td><img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/manipulation%20peace.jpg?raw=true" width="250" /><br>Peace Manipulation</td>
+      <td><img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/manipulation.png?raw=true" width="250" /><br>Creative Manipulation</td>
+      <td><img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/monster%20manipulation.jpg?raw=true" width="250" /><br>Monster Manipulation</td>
+    </tr>
+  </table>
 </div>
 
 ### 📢 Advertisements
 <div align="center">
-  <figure>
-    <img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/ad%20manipulation.png?raw=true" width="250" />
-    <figcaption>Ad Manipulation 1</figcaption>
-  </figure>
-  <figure>
-    <img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/ad%20manipulation%20(2).png?raw=true" width="250" />
-    <figcaption>Ad Manipulation 2</figcaption>
-  </figure>
-  <figure>
-    <img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/transformed%20(1).png?raw=true" width="250" />
-    <figcaption>Ad Campaign 1</figcaption>
-  </figure>
-  <figure>
-    <img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/advertisment.jpg?raw=true" width="250" />
-    <figcaption>Advertisement Poster</figcaption>
-  </figure>
+  <table>
+    <tr>
+      <td><img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/ad%20manipulation.png?raw=true" width="280" /><br>Ad Manipulation 1</td>
+      <td><img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/ad%20manipulation%20(2).png?raw=true" width="280" /><br>Ad Manipulation 2</td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/transformed%20(1).png?raw=true" width="280" /><br>Ad Campaign 1</td>
+      <td><img src="https://github.com/yosefsolomon19/graphics-design-/blob/main/advertisment.jpg?raw=true" width="280" /><br>Advertisement Poster</td>
+    </tr>
+  </table>
 </div>
 
 ---
